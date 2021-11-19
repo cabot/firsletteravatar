@@ -1,0 +1,11 @@
+.avatar-letter {
+	padding: 0.6em 0.4em;
+	font-size: xx-large;
+	text-transform: uppercase;
+	border: 1px solid;
+	border-radius: 8px;
+}
+
+.avatar.avatar-letter:hover {
+	text-decoration: none;
+}
