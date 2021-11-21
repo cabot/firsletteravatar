@@ -1,7 +1,7 @@
 {
     "name": "cabot/firstletteravatar",
     "type": "phpbb-extension",
-    "description": "Displays the first letter of the username as default avatar.",
+    "description": "Displays username's first letter as default avatar.",
     "homepage": "http://cabotweb.fr",
     "version": "1.0.0",
     "keywords": [
