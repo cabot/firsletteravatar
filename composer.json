@@ -2,7 +2,7 @@
     "name": "cabot/firstletteravatar",
     "type": "phpbb-extension",
     "description": "Displays username's first letter as default avatar.",
-    "homepage": "http://cabotweb.fr",
+    "homepage": "https://github.com/cabot/firstletteravatar",
     "version": "1.0.0",
     "keywords": [
         "phpbb",
@@ -12,19 +12,17 @@
     "authors": [
         {
             "name": "cabot",
-            "homepage": "http://cabotweb.fr",
+            "homepage": "https://forum.cabotweb.fr",
             "role": "SushiMaker"
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "composer/installers": "~1.0",
-        "phpbb/phpbb": ">=3.3"
+        "php": ">=5.4.7"
     },
     "extra": {
         "display-name": "First letter as default avatar",
         "soft-require": {
-            "phpbb/phpbb": "3.3"
+            "phpbb/phpbb": ">=3.2.0"
         }
     }
 }
