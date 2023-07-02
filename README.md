@@ -6,7 +6,7 @@ Displays username's first letter as default avatar in viewtopic mini profile (ph
 * PHP 5.4.7
 
 ## Install
-1. Download the latest release.
+1. Download the [latest release](https://github.com/cabot/firstletteravatar/releases/latest).
 2. Unzip the downloaded release, and change the name of the folder to `firstletteravatar`.
 3. In the `ext` directory of your phpBB board, create a new directory named `cabot` (if it does not already exist).
 4. Copy the `firstletteravatar` folder to `/ext/cabot/` (if done correctly, you'll have the main extension class at (your forum root)/ext/cabot/firstletteravatar/composer.json).
